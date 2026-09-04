@@ -1,7 +1,7 @@
 # Algoritmos Python 
 Projeto desenvolvido para praticar algoritmos básicos utilizando Python.
 
-## Tecnnologias
+## Tecnologias
 
 - Python
 - Git
